@@ -6,3 +6,9 @@ print("")
 
 print("2. Print N(10) numbers")
 printN()
+
+print("")
+print("")
+
+print("3. Print even numbers")
+printEven()
