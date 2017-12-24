@@ -1,3 +1,4 @@
+//Given each example implementation as a function
 print("1.Sum of a given array")
 sumOfArray()
 
