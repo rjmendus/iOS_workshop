@@ -1,3 +1,4 @@
+//Function for the love calculator
 func loveCalculator(yourName : String, theirName : String) -> String {
 
     let loveScore = getRandom(upperBound : 101)

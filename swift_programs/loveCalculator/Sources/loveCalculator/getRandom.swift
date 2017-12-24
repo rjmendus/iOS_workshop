@@ -1,3 +1,5 @@
+//random function generated for creating a random number when the upperbound is given
+
 import Glibc
 
 func getRandom(upperBound : Int) -> Int {
