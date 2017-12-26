@@ -1,1 +1,1 @@
-print(beerSong(withThisManyBottles: 10))
+print(beerSong(forThisManyBottlesOfBeer: 5))
