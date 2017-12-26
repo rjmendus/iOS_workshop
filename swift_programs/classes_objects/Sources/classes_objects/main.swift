@@ -1,4 +1,4 @@
-let myCar = Car()
+let myCar = Car(customerChosenColour: "Blue")
 
 print(myCar.colour)
 print(myCar.numberOfSeats)
