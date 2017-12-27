@@ -28,6 +28,7 @@ class ViewController: UIViewController, AVAudioPlayerDelegate{
        playSound(selectedSoundFileName: soundArray[sender.tag - 1])
     }
     
+    //Function to play sound according to each button
     func playSound(selectedSoundFileName: String) {
         let soundURL = Bundle.main.url(forResource: selectedSoundFileName, withExtension: "wav")
         
